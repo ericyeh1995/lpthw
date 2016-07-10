@@ -14,3 +14,4 @@ print persian_cat
 print backslash_cat
 print fat_cat
 
+# escape sqeuences
