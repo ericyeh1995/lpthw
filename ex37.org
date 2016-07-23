@@ -1,0 +1,117 @@
+
+
+* Keywords
+  - and
+  - del
+  - from
+  - not
+  - while
+  - as
+  - elif
+  - global
+  - or
+  - with
+  - assert
+      test condition, error if false
+      for debugging use
+  - else
+  - if
+  - pass
+      nothing happens
+  - yield
+      return generator
+  - break
+      break out of a for or while loop
+  - except
+      used for ignoring exceptions
+  - import
+  - print
+  - class
+  - exec
+      execute a string
+      ex: exec('a = 47')
+  - in
+  - raise
+      raising errors
+  - continue
+  - finally
+  - is
+  - return
+  - def
+  - for
+  - lambda
+  - try
+
+
+* Data Types
+  - True
+  - False
+  - None
+  - strings
+  - numbers
+  - floats
+  - lists
+
+* String Escape Sequences
+  - \\
+  - \'
+  - \"
+  - \a
+  - \b
+  - \f
+  - \n
+  - \r
+  - \t
+  - \v
+
+* String Formats
+  - %d
+  - %i
+  - %o
+  - %u
+  - %x
+  - %X
+  - %e
+  - %E
+  - %f
+  - %F
+  - %g
+  - %G
+  - %c
+  - %r
+  - %s
+  - %%
+
+
+* operators
+  - +
+  - -
+  - *
+  - **
+  - /
+  - //
+      floor division
+  - %
+  - <
+  - >
+  - <=
+  - =>
+  - ==
+  - !=
+  - <>
+  - ( )
+  - [ ] 
+  - { }
+  - @
+  - ,
+  - :
+  - .
+  - =
+  - ;
+  - +=
+  - -=
+  - *=
+  - /=
+  - //=
+  - %=
+  - **=
