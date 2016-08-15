@@ -4,7 +4,7 @@ def scan(user_in):
 
     out = []
     TYPE_direction = ['north', 'south', 'east', 'west']
-    TYPE_verb = ['go', 'kill', 'eat']
+    TYPE_verb = ['go', 'kill', 'eat', 'run']
     TYPE_stop = ['the', 'in', 'of']
     TYPE_noun = ['bear', 'princess']
 

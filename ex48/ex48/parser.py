@@ -1,7 +1,7 @@
 from lexicon import *
 
 
-class ParseError(Exception):
+class ParserError(Exception):
     pass
 
 
